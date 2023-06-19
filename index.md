@@ -4,3 +4,6 @@
 ```
 print("Hello World")
 ```
+- [ ] Get an awesome job
+- [ ] Buy an awesome car
+- [ ] Travel around the world
